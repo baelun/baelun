@@ -1,51 +1,56 @@
 # Hi there, I'm Baelun 👋 
 
 ### **Software Engineer @ Delta Electronics (Architecture Dept.)**
-**Industrial Data Infrastructure | Performance Benchmarking | MLOps Aspirant**
+**Industrial Data Infrastructure | Performance Engineering | MLOps Aspirant**
 
-I am a Software Engineer in the **Architecture Department** at Delta Electronics. I specialize in **Technology Scouting** and **Infrastructure Evaluation** of high-performance data systems. My expertise lies in architecting resilient POCs and conducting scientific performance benchmarking for large-scale Industrial IoT applications.
+I am a Software Engineer in the **Architecture Department** at Delta Electronics. My work revolves around **Technology Scouting** and **Infrastructure Evaluation**. I bridge the gap between Industrial Engineering (IE) logic and scalable Data/AI architectures.
+
+---
+
+### 🔭 Current Focus: Industrial Data Infrastructure
+*At Delta's Architecture Dept., I evaluate and prototype next-gen data platforms for IIoT data landing.*
+
+- **Data Platform POCs**: Designing high-throughput **Kafka-to-ClickHouse-to-S3** pipelines with cold/hot data tiering strategies.
+- **Advanced ETL/ELT**: Prototyping multi-source integration (e.g., **MongoDB to ClickHouse**) using **SeaTunnel**, **dltHub (DLT)**, and **PySpark** to assess integration feasibility.
+- **Performance Benchmarking**: Executing multi-stage **Stress Tests** using mock data to define limits for ClickHouse, Kafka, and specialized data warehouses.
+- **Cloud-Native DevEx**: Researching **Tilt, DevPod, and K8s (GKE)** to streamline microservice prototyping and environment consistency.
+- **Observability**: Establishing monitoring standards via **Grafana, Prometheus, and Loki**.
+
+---
+
+### 🧬 Previous Foundation: IE & Computer Vision
+*My background in Industrial Engineering and Human-Computer Interaction (HCI).*
+
+- **HCI & Computer Vision**: Applied **Mediapipe** and **YOLO** for motion tracking and human factor engineering in manufacturing.
+- **Supervised Learning**: Developed predictive models using **Scikit-Learn** and **RapidMiner** for industrial metrics analysis.
+- **Full-Stack Prototyping**: Building lightweight internal tools with **Flask, Python, and SQL**.
+
+---
+
+### 🚀 Future Roadmap: Bridging Data & MLOps
+*Leveraging my ML background to explore the lifecycle of production AI.*
+
+- **AI Infrastructure**: Prototyping **MCP (Model Context Protocol)** servers and **RAG** systems (LlamaIndex/FAISS) to integrate LLMs with industrial data.
+- **Target: MLOps**: Integrating my Data Engineering stack with ML workflows (Model deployment, monitoring, and automated retraining).
+
+---
+
+### 🛠️ Core Tech Stack
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Data Eng.** | `PySpark`, `dlt`, `SeaTunnel`, `ClickHouse`, `Kafka`, `MongoDB`, `MinIO`, `Airflow`, `Prefect` |
+| **AI/ML** | `LlamaIndex`, `LangChain`, `MCP`, `Mediapipe`, `YOLO`, `FAISS`, `ChromaDB`, `Scikit-Learn` |
+| **Infra/DevOps** | `Docker`, `K8s (GKE)`, `Tilt`, `DevPod`, `Grafana`, `Prometheus`, `Loki` |
+| **Dev.** | `Python`, `SQL`, `R`, `JavaScript`, `Flask`, `Git` |
 
 ---
 
 ### 🔍 Quick Overview
-
-- 🔭 **I’m currently working on**: High-throughput **Kafka-to-ClickHouse** data pipelines and conducting system-level stress testing for Industrial IoT.
-- 🌱 **I’m currently learning**: Deepening my knowledge in **MLOps** workflows, **Data Lakehouse** architectures (Iceberg/Delta Lake), and Cloud-native scaling.
-- 👯 **I’m looking to collaborate on**: Open-source **Data Engineering** tools or **AI Infrastructure** projects (especially anything involving MCP or RAG).
-- 🤔 **I’m looking for help with**: Best practices for implementing **CI/CD for Machine Learning (MLOps)** in on-premise industrial environments.
-- 💬 **Ask me about**: **ClickHouse** performance tuning, **Industrial Data Pipelines**, or how to use **Mock Data** for scientific architecture validation.
-- 📫 **How to reach me**: [Your LinkedIn URL] or via Email: [Your Email Address]
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I enjoy translating complex manufacturing logic into clean, scalable data architectures—it’s like solving a giant 3D puzzle.
-
----
-
-### 🔬 Architecture Research & POCs (Professional)
-*Evaluating next-generation tools to build resilient industrial data platforms.*
-
-* **High-Throughput Streaming:** Designed **Kafka-to-ClickHouse-to-S3** pipelines with optimized partition strategies and insert query chunking.
-* **Performance Validation:** Executed multi-stage stress tests using **mock data** to identify bottlenecks and optimize resource allocation.
-* **Modern ETL/ELT:** Evaluated **SeaTunnel, PySpark, and dlt** for reliable cross-platform data migration (e.g., MongoDB ➔ ClickHouse).
-* **Observability:** Implementing monitoring prototypes with **Grafana, Prometheus, and Loki**.
-
----
-
-### 🤖 Personal Tech Lab (AI Infra & Future Goals)
-
-* **LLM Integration:** Researching **Model Context Protocol (MCP)** to bridge LLMs with structured industrial datasets.
-* **AI Infrastructure:** Prototyping RAG frameworks using **LlamaIndex, FAISS, and ChromaDB**.
-* **Target:** Transitioning towards **MLOps**, focusing on model deployment and automated AI workflows.
-
----
-
-### 🛠️ Toolbox
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Data Stack** | ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka) ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC00?style=flat-square&logo=clickhouse&logoColor=black) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
-| **Orchestration** | ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Prefect](https://img.shields.io/badge/-Prefect-ffffff?style=flat-square&logo=prefect&logoColor=blue) |
-| **Infra/DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| **AI/ML** | ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-blueviolet?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![MCP](https://img.shields.io/badge/-MCP-orange?style=flat-square) |
+- 👯 **I’m looking to collaborate on**: Open-source Data Infrastructure or MLOps tooling.
+- 🤔 **I’m looking for help with**: Enterprise-grade CI/CD patterns for ML workflows.
+- 💬 **Ask me about**: **Industrial IoT architectures** or **Architecture Research** methodology.
+- ⚡ **Fun fact**: I believe the best architecture is the one that balances efficiency with long-term maintainability.
 
 ---
 
