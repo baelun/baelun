@@ -22,10 +22,10 @@ I am a Software Engineer in the **Architecture Department** at Delta Electronics
 *My background in Industrial Engineering and Human-Computer Interaction (HCI).*
 
 Integrating Human-Machine Interaction with Machine Learning models.
-Human Factor Evaluation System: Developed a full-stack web application using Flask, JavaScript, and Python to automate the assessment of industrial motion patterns.
-Pose Estimation & Feature Engineering: Utilized Mediapipe Pose to detect and extract 3D joint coordinates for real-time ergonomic analysis.
-Comparative Model Analysis: Trained and optimized multiple supervised learning models (XGBoost, GBM, and K-NN) to predict joint loads, achieving performance benchmarking across different algorithms.
-HCI Optimization: Designed intuitive interfaces to visualize model predictions, bridging the gap between raw ML output and industrial usability.
+- **Human Factor Evaluation System:** Developed a full-stack web application using Flask, JavaScript, and Python to automate the assessment of industrial motion patterns.
+- **Pose Estimation & Feature Engineering:** Utilized Mediapipe Pose to detect and extract 3D joint coordinates for real-time ergonomic analysis.
+- **Comparative Model Analysis:** Trained and optimized multiple supervised learning models (XGBoost, GBM, and K-NN) to predict joint loads, achieving performance benchmarking across different algorithms.
+- **HCI Optimization:** Designed intuitive interfaces to visualize model predictions, bridging the gap between raw ML output and industrial usability.
 
 ---
 
