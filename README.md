@@ -21,9 +21,11 @@ I am a Software Engineer in the **Architecture Department** at Delta Electronics
 ### 🧬 Previous Foundation: IE & Computer Vision
 *My background in Industrial Engineering and Human-Computer Interaction (HCI).*
 
-- **HCI & Computer Vision**: Applied **Mediapipe** and **YOLO** for motion tracking and human factor engineering in manufacturing.
-- **Supervised Learning**: Developed predictive models using **Scikit-Learn** and **RapidMiner** for industrial metrics analysis.
-- **Full-Stack Prototyping**: Building lightweight internal tools with **Flask, Python, and SQL**.
+Integrating Human-Machine Interaction with Machine Learning models.
+Human Factor Evaluation System: Developed a full-stack web application using Flask, JavaScript, and Python to automate the assessment of industrial motion patterns.
+Pose Estimation & Feature Engineering: Utilized Mediapipe Pose to detect and extract 3D joint coordinates for real-time ergonomic analysis.
+Comparative Model Analysis: Trained and optimized multiple supervised learning models (XGBoost, GBM, and K-NN) to predict joint loads, achieving performance benchmarking across different algorithms.
+HCI Optimization: Designed intuitive interfaces to visualize model predictions, bridging the gap between raw ML output and industrial usability.
 
 ---
 
@@ -42,7 +44,7 @@ I am a Software Engineer in the **Architecture Department** at Delta Electronics
 | **Data Eng.** | `PySpark`, `dlt`, `SeaTunnel`, `ClickHouse`, `Kafka`, `MongoDB`, `MinIO`, `Airflow`, `Prefect` |
 | **AI/ML** | `LlamaIndex`, `LangChain`, `MCP`, `Mediapipe`, `YOLO`, `FAISS`, `ChromaDB`, `Scikit-Learn` |
 | **Infra/DevOps** | `Docker`, `K8s (GKE)`, `Tilt`, `DevPod`, `Grafana`, `Prometheus`, `Loki` |
-| **Dev.** | `Python`, `SQL`, `R`, `JavaScript`, `Flask`, `Git` |
+| **Dev.** | `Python`, `SQL`, `R`, `HTML`, `CSS`, `JavaScript`, `Flask`, `Git` |
 
 ---
 
