@@ -54,10 +54,4 @@ Integrating Human-Machine Interaction with Machine Learning models.
 - 💬 **Ask me about**: **Industrial IoT architectures** or **Architecture Research** methodology.
 - ⚡ **Fun fact**: I believe the best architecture is the one that balances efficiency with long-term maintainability.
 
----
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=baelun&show_icons=true&theme=radical" alt="Baelun's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baelun&layout=compact&theme=radical" alt="Baelun's Languages" height="150" />
-</p>
