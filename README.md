@@ -1,6 +1,6 @@
 # Hi there, I'm Baelun 👋 
 
-### **Software Engineer @ Delta Electronics (Architecture Dept.)**
+### **Software Engineer**
 **Industrial Data Infrastructure | Performance Engineering | MLOps Aspirant**
 
 I am a Software Engineer in the **Architecture Department** at Delta Electronics. My work revolves around **Technology Scouting** and **Infrastructure Evaluation**. I bridge the gap between Industrial Engineering (IE) logic and scalable Data/AI architectures.
@@ -46,12 +46,6 @@ Integrating Human-Machine Interaction with Machine Learning models.
 | **Infra/DevOps** | `Docker`, `K8s (GKE)`, `Tilt`, `DevPod`, `Grafana`, `Prometheus`, `Loki` |
 | **Dev.** | `Python`, `SQL`, `R`, `HTML`, `CSS`, `JavaScript`, `Flask`, `Git` |
 
----
 
-### 🔍 Quick Overview
-- 👯 **I’m looking to collaborate on**: Open-source Data Infrastructure or MLOps tooling.
-- 🤔 **I’m looking for help with**: Enterprise-grade CI/CD patterns for ML workflows.
-- 💬 **Ask me about**: **Industrial IoT architectures** or **Architecture Research** methodology.
-- ⚡ **Fun fact**: I believe the best architecture is the one that balances efficiency with long-term maintainability.
 
 
